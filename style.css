@@ -477,7 +477,7 @@ span {
   width: 85%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span {
-  width: 60%;
+  width: 80%;
 }
 /* Start Contact */
 .contact {
@@ -808,3 +808,4 @@ section:nth-child(odd) .animate.scroll,
     width: 0;
   }
 }
+
